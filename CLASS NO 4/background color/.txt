@@ -1,0 +1,28 @@
+.contianer {
+  width: 300px;
+  height: 300px;
+  background-color: rgb(19, 19, 142, 0.5);
+  color: rgb(92, 92, 64);
+  /* opacity: 0.5; */
+  background-image: url(moneeb.jpg);
+  background-repeat:no-repeat;
+  border: solid black 1px;
+
+  /* background-attachment use hota he ke background image ko scroll karne par bhi wahi par rehna chahiye; */
+
+  /* background-attachment: fixed; */
+
+  /* background-size se image ke quality ko kharab karte he  */
+
+  /* background-size: cover; */
+
+  /* background cantain se image ke quality kharab nahe hote  */
+
+  background-size: contain;
+
+  /* background auto se picture apne halat me ata he  */
+
+  /* background-size: auto; */
+    
+   background-position: center center;
+}

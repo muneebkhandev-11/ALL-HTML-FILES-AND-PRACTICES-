@@ -1,0 +1,22 @@
+.contianer {
+  background-color: rgb(170, 42, 42,0.5);
+  height: 700px;
+  width: 700px;
+  border: 2px solid black;
+  background-image: url(moneeb.jpg);
+  background-position: center center !important;
+  /* background-attachment: fixed ; */
+  background-repeat: no-repeat;
+  /* opacity: 0.3; */
+  background-size: contain;
+  /* background-size: cover; */
+  /* background-size: auto; */
+  
+}
+.text-contianer {
+  color: rgb(1, 8, 143);
+  font-size: 50px;
+  text-align: center;
+  }
+
+  
